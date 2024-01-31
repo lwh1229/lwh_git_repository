@@ -1,0 +1,2 @@
+yolov5_ROS/ros_yolo
+-DCATKIN_DEVEL_PREFIX=/home/lwh/yolov5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lwh/yolov5_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+lsn10p/lslidar:lsn10p/lslidar_driver:lsn10p/lslidar_msgs
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/lwh/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lwh/lidar_ws/install -G Unix Makefiles

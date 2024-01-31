@@ -1,0 +1,7 @@
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/install/strip.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/install/local.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/install.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/list_install_components.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/rebuild_cache.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/edit_cache.dir
+/home/lwh/6d_pose/SAC-IA-ICP/build/CMakeFiles/SAC-IA-ICP.dir

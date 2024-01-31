@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lwh/yolov5_ws/devel/setup.sh

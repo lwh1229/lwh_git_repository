@@ -1,0 +1,7 @@
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/install/strip.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/install/local.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/install.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/list_install_components.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/rebuild_cache.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/edit_cache.dir
+/home/lwh/6d_pose/sca-ia-icp2/build/CMakeFiles/sca-ia-icp2.dir

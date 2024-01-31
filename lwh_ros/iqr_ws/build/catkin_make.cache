@@ -1,0 +1,2 @@
+pan_tilt_ros-master/pan_tilt_bringup:pan_tilt_ros-master/pan_tilt_description:pan_tilt_ros-master/pan_tilt_driver:pan_tilt_ros-master/pan_tilt_msgs:teleop_twist_joy
+-DCATKIN_DEVEL_PREFIX=/home/lwh/iqr_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lwh/iqr_ws/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/install/strip.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/install/local.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/install.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/list_install_components.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/rebuild_cache.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/edit_cache.dir
+/home/lwh/6d_pose/ISS-RANSAC-ICP/build/CMakeFiles/iss-icp.dir

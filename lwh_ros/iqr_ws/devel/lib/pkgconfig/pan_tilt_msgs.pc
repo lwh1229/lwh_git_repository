@@ -1,0 +1,8 @@
+prefix=/home/lwh/iqr_ws/devel
+
+Name: pan_tilt_msgs
+Description: Description of pan_tilt_msgs
+Version: 1.0.0
+Cflags: -I/home/lwh/iqr_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
